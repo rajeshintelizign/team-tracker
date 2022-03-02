@@ -105,19 +105,19 @@
             "enabled": false
         },
         "pushNotifications": {
-            "enabled": false
+            "enabled": true
         },
         "crashlytics": {
             "enabled": false
         },
         "firebaseAndroid": {
-            "enabled": false
+            "enabled": true
         },
         "firebaseIos": {
-            "enabled": false
+            "enabled": true
         },
         "localNotifications": {
-            "enabled": false
+            "enabled": true
         },
         "appCenterOTA": {
             "enabled": false
@@ -126,7 +126,7 @@
             "enabled": false
         }
     },
-    "appVersion": "1.0.1",
-    "buildNumber": 2,
+    "appVersion": "1.0.3",
+    "buildNumber": 3,
     "runtimeUrl": "https://teamtracker-sandbox.mxapps.io/"
 }
