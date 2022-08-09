@@ -6,6 +6,8 @@
     "@react-native-community/netinfo": "5.9.7",
     "react-native-action-button": "2.8.5",
     "react-native-render-html": "6.1.0",
+    "@react-native-community/art": "1.2.0",
     "react-native-device-info": "8.0.1",
-    "react-native-localize": "1.3.4"
+    "react-native-localize": "1.3.4",
+    "@react-native-community/async-storage": "1.12.1"
 }

@@ -1,5 +1,6 @@
 {
     "@react-native-community/netinfo": "5.9.7",
     "react-native-action-button": "2.8.5",
-    "react-native-render-html": "6.1.0"
+    "react-native-render-html": "6.1.0",
+    "@react-native-community/art": "1.2.0"
 }
