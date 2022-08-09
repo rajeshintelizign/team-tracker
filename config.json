@@ -134,7 +134,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.7",
-    "buildNumber": 7,
+    "appVersion": "0.0.8",
+    "buildNumber": 8,
     "runtimeUrl": "https://teamtracker-sandbox.mxapps.io/"
 }
