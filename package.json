@@ -10,7 +10,6 @@
     "configure": "native-mobile-toolkit configure --config-path='./config.json' --verbose"
   },
   "dependencies": {
-    "@react-native-community/art": "1.2.0",
     "@react-native-community/async-storage": "1.12.1",
     "@react-native-community/cameraroll": "4.0.1",
     "@react-native-community/datetimepicker": "3.0.3",
